@@ -1,6 +1,6 @@
 {
   "name": "@seu-imovel-aqui/plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Seu imóvel aqui base plug-in",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
